@@ -318,6 +318,7 @@ main#home h1 {
   main {
     align-items: center;
     text-align: center;
+    font: 0.8rem;
   }
   main .lg-heading {
     line-height: 1;
